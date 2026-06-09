@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tearing-apart-at-seams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tearing Apart At Seams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tearing-apart-at-seams/) |
+| **Get License** | [Commercial Licensing for Tearing Apart At Seams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tearing-apart-at-seams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire in the shadows we cast
+> You're pulling me close, making a midnight last
+> The way that you breathe is a spark in the dark
+> Got a hold on my soul, leaving a heavy mark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
