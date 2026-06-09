@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tearing-apart-at-seams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tearing Apart At Seams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tearing-apart-at-seams/) |
+| **Get License** | [License this song: Tearing Apart At Seams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tearing-apart-at-seams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42680c0bc99caac4eef4ad037f2b350f6a0133e372898796284915c9b49a464b` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

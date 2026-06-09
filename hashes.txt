@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tearing Apart At Seams
+
+This log tracks the cryptographic history and versioning for the song **Tearing Apart At Seams** (tearing-apart-at-seams).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:39:07.217377 | `v1` | `42680c0bc99caac4eef4ad037f2b350f6a0133e372898796284915c9b49a464b` | `45eb1325f5020394cdd08d4316eedaf88613c292b1ffddc23060c96d1627a593` | `2026-06-09_tearing-apart-at-seams-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
